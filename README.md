@@ -2,14 +2,12 @@
 
 There are some open source projects and articles about Web IDE and Code Editor.
 
-## Projects
-
-### Code Editor
+## Code Editor
 - [monaco-editor](https://github.com/Microsoft/monaco-editor)
 - [CodeMirror](https://github.com/codemirror/CodeMirror)
 - [ACE Editor](https://github.com/ajaxorg/ace)
 
-### IDE 
+## IDE 
 
 - [vscode](https://github.com/microsoft/vscode)
 - [atom](https://github.com/atom/atom)
