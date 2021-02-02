@@ -1,6 +1,6 @@
 # web-ide-collection
 
-There are some open source projects about Web IDE and Code Editor.
+There are some open source projects and articles about Web IDE and Code Editor.
 
 ## Projects
 
